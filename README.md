@@ -1,4 +1,4 @@
-# Server-Client-TFTP-model-
+# Server-Client-TFTP-model
 implementation of a book club. 
 Implement both a server, which will provide STOMP server services, and a client, 
 which a user can use in order to interact with the rest of the users. 
